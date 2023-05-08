@@ -1,3 +1,5 @@
 <resources>
+    <string name="input_text">Shared Preferences</string>
     <string name="app_name">Shared Preferences</string>
+    <string name="input_field">Type something to display on the other page!</string>
 </resources>
